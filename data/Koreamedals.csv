@@ -1,0 +1,88 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+1992,Albertville,Skating,"LEE, Jun-Ho",KOR,Men,1000M,Bronze
+1992,Albertville,Skating,"KIM, Ki-Hoon",KOR,Men,1000M,Gold
+1992,Albertville,Skating,"KIM, Ki-Hoon",KOR,Men,5000M Relay,Gold
+1992,Albertville,Skating,"LEE, Jun-Ho",KOR,Men,5000M Relay,Gold
+1992,Albertville,Skating,"MO, Ji-Soo",KOR,Men,5000M Relay,Gold
+1992,Albertville,Skating,"SONG, Jae-Kun",KOR,Men,5000M Relay,Gold
+1992,Albertville,Skating,"KIM, Yoon-Man",KOR,Men,1000M,Silver
+1994,Lillehammer,Skating,"KIM, Ki-Hoon",KOR,Men,1000M,Gold
+1994,Lillehammer,Skating,"CHAE, Ji-Hoon",KOR,Men,1000M,Silver
+1994,Lillehammer,Skating,"KIM, So-Hee",KOR,Women,1000M,Bronze
+1994,Lillehammer,Skating,"CHUN, Lee-Kyung",KOR,Women,1000M,Gold
+1994,Lillehammer,Skating,"CHUN, Lee-Kyung",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"KIM, Ryang-Hee",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"KIM, So-Hee",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"KIM, Yoon-Mi",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"WON, Hye-Kyung",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"CHAE, Ji-Hoon",KOR,Men,500M,Gold
+1998,Nagano,Skating,"KIM, Dong-Sung",KOR,Men,1000M,Gold
+1998,Nagano,Skating,"WON, Hye-Kyung",KOR,Women,1000M,Bronze
+1998,Nagano,Skating,"CHUN, Lee-Kyung",KOR,Women,1000M,Gold
+1998,Nagano,Skating,"AN, Sang-Mi",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"CHUN, Lee-Kyung",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"KIM, Yun-Mi",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"WON, Hye-Kyung",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"CHAE, Ji-Hoon",KOR,Men,5000M Relay,Silver
+1998,Nagano,Skating,"KIM, Dong-Sung",KOR,Men,5000M Relay,Silver
+1998,Nagano,Skating,"LEE, Ho-Eung",KOR,Men,5000M Relay,Silver
+1998,Nagano,Skating,"LEE, Jun-Hwan",KOR,Men,5000M Relay,Silver
+1998,Nagano,Skating,"CHUN, Lee-Kyung",KOR,Women,500M,Bronze
+2002,Salt Lake City,Skating,"KO, Gi-Hyun",KOR,Women,1000M,Silver
+2002,Salt Lake City,Skating,"KO, Gi-Hyun",KOR,Women,1500M,Gold
+2002,Salt Lake City,Skating,"CHOI, Eun-Kyung",KOR,Women,1500M,Silver
+2002,Salt Lake City,Skating,"CHOI, Eun-Kyung",KOR,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,"CHOI, Min Kyung",KOR,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,"JOO, Min-Jin",KOR,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,"PARK, Hye-Won",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"AHN, Hyun-Soo",KOR,Men,1000M,Gold
+2006,Turin,Skating,"LEE, Ho-Suk",KOR,Men,1000M,Silver
+2006,Turin,Skating,"JIN, Sun-Yu",KOR,Women,1000M,Gold
+2006,Turin,Skating,"AHN, Hyun-Soo",KOR,Men,1500M,Gold
+2006,Turin,Skating,"LEE, Ho-Suk",KOR,Men,1500M,Silver
+2006,Turin,Skating,"JIN, Sun-Yu",KOR,Women,1500M,Gold
+2006,Turin,Skating,"CHOI, Eun-Kyung",KOR,Women,1500M,Silver
+2006,Turin,Skating,"BYUN, Chun-Sa",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"CHOI, Eun-Kyung",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"JEON, Da-Hye",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"JIN, Sun-Yu",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"KANG, Yun-Mi",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"AHN, Hyun-Soo",KOR,Men,5000M Relay,Gold
+2006,Turin,Skating,"LEE, Ho-Suk",KOR,Men,5000M Relay,Gold
+2006,Turin,Skating,"OH, Se-Jong",KOR,Men,5000M Relay,Gold
+2006,Turin,Skating,"SEO, Ho-Jin",KOR,Men,5000M Relay,Gold
+2006,Turin,Skating,"SONG, Suk-Woo",KOR,Men,5000M Relay,Gold
+2006,Turin,Skating,"AHN, Hyun-Soo",KOR,Men,500M,Bronze
+2006,Turin,Skating,"LEE, Kang Seok",KOR,Men,500M,Bronze
+2010,Vancouver,Skating,"KIM, Yuna",KOR,Women,Individual,Gold
+2010,Vancouver,Skating,"LEE, Jung-Su",KOR,Men,1000M,Gold
+2010,Vancouver,Skating,"LEE, Ho-Suk",KOR,Men,1000M,Silver
+2010,Vancouver,Skating,"PARK, Seung-Hi",KOR,Women,1000M,Bronze
+2010,Vancouver,Skating,"LEE, Jung-Su",KOR,Men,1500M,Gold
+2010,Vancouver,Skating,"PARK, Seung-Hi",KOR,Women,1500M,Bronze
+2010,Vancouver,Skating,"LEE, Eun-Byul",KOR,Women,1500M,Silver
+2010,Vancouver,Skating,"KIM, Seoung-Il",KOR,Men,5000M Relay,Silver
+2010,Vancouver,Skating,"KWAK, Yoon-Gy",KOR,Men,5000M Relay,Silver
+2010,Vancouver,Skating,"LEE, Ho-Suk",KOR,Men,5000M Relay,Silver
+2010,Vancouver,Skating,"LEE, Jung-Su",KOR,Men,5000M Relay,Silver
+2010,Vancouver,Skating,"SUNG, Si-Bak",KOR,Men,5000M Relay,Silver
+2010,Vancouver,Skating,"SUNG, Si-Bak",KOR,Men,500M,Silver
+2010,Vancouver,Skating,"LEE, Seung-Hoon",KOR,Men,10000M,Gold
+2010,Vancouver,Skating,"MO, Tae-Bum",KOR,Men,1000M,Silver
+2010,Vancouver,Skating,"LEE, Seung-Hoon",KOR,Men,5000M,Silver
+2010,Vancouver,Skating,"MO, Tae-Bum",KOR,Men,500M,Gold
+2010,Vancouver,Skating,"LEE, Sang-Hwa",KOR,Women,500M,Gold
+2014,Sochi,Skating,"KIM, Yuna",KOR,Women,Individual,Silver
+2014,Sochi,Skating,"PARK, Seung-Hi",KOR,Women,1000M,Gold
+2014,Sochi,Skating,"SHIM, Suk Hee",KOR,Women,1000M,Bronze
+2014,Sochi,Skating,"SHIM, Suk Hee",KOR,Women,1500M,Silver
+2014,Sochi,Skating,"CHO, Ha-Ri",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"KIM, Alang",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"KONG, Sangjeong",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"PARK, Seung-Hi",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"SHIM, Suk Hee",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"PARK, Seung-Hi",KOR,Women,500M,Bronze
+2014,Sochi,Skating,"JOO, Hyong Jun",KOR,Men,Team Pursuit,Silver
+2014,Sochi,Skating,"KIM, Cheol Min",KOR,Men,Team Pursuit,Silver
+2014,Sochi,Skating,"LEE, Seung Hoon",KOR,Men,Team Pursuit,Silver
+2014,Sochi,Skating,"LEE, Sang Hwa",KOR,Women,500M,Gold
