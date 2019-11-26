@@ -1,6 +1,6 @@
 ![about Korea Skating players](images/Koreanplayers.jpg "Korean skating players")
 ># Olympic Korea Skating Medals Analysis
->>This is all about the data of **Korea Skating Medals** between women and men. The data is about compared medals and gender. 
+>>This is all about the data of **Korea Skating Medals** between women and men. The data of Korea is compared to nations, gender, events and so on. 
 
 ## Getting Started
  Thi is a basic Python / Tableau / Photoshop. If you wonder what any of steps these are, 
